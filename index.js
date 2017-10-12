@@ -15,7 +15,7 @@
 /* global require */
 /* global exports */
 
-var originalTranslate = require('plugin-babel').translate;
+var originalTranslate = require('systemjs-plugin-babel').translate;
 
 (function () {
   if (typeof document !== 'undefined') {
