@@ -1,0 +1,16 @@
+{
+  "name": "caching-plugin-babel",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dexie": "^1.5.1",
+    "systemjs-plugin-babel": "^0.0.21"
+  },
+  "devDependencies": {},
+  "description": ""
+}
